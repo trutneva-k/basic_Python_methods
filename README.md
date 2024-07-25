@@ -1,4 +1,4 @@
-# Python Methods for Lists and Strings
+# Python Methods for diffeternt data types
 
 ## Overview
 This repository contains Python files that demonstrate various methods and operations for working with diffeternt data types in Python.
